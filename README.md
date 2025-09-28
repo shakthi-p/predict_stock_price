@@ -48,13 +48,6 @@ This mini-project performs the following tasks:
    * Prediction error plot and histogram
    * Metrics printed in the console
 
-## Output
-
-* **Training Loss Curve:** Shows how the loss decreases over epochs
-* **Actual vs Predicted Prices:** Visual comparison of predictions vs real stock prices
-* **Prediction Error:** Visualize differences and distribution of errors
-
-
 ## Technologies Used
 
 * Python 3.x
